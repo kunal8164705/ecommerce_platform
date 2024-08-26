@@ -25,7 +25,7 @@ This project is a simple Django-based ecommerce platform that allows for product
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/kunal8164705/ecommerce_platform.git
    cd ecommerce
    ```
 
